@@ -28,6 +28,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects.
 - [ExoMy](https://esa-prl.github.io/ExoMy/) - The 3D printed rover developed by the European Space Agency
 - [TriFinger](https://sites.google.com/view/trifinger) - An Open-Source Robot for Learning Dexterity
 - [MABEL](https://hackaday.io/project/174129-mabel-a-boston-dynamics-inspired-balancing-robot) A Boston Dynamics inspired balancing robot
+- [Open-ATS](https://github.com/Open-ATS-Github/Newone) Open-source, 3D printed, low-cost transport and reconnaissance vehicle controlled over the internet, programmed in Python
 - [Open Dynamic Robot Initiative](https://open-dynamic-robot-initiative.github.io/) - An Open Torque-Controlled Modular Robot Architecture for Legged Locomotion Research
 - [Robotics Middleware Framework](https://github.com/osrf/rmf_demos) - Task queuing, conflict-free resource scheduling, utilities to help create robot fleet adapters, and so on
 - [PythonRobotics](https://atsushisakai.github.io/PythonRobotics/) - Python sample codes for robotics algorithms
